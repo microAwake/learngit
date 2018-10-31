@@ -8,4 +8,4 @@ git is good to eat
 
 create a branch dev
 
-this is easy & important
+thie is easy and & important
