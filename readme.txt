@@ -16,3 +16,4 @@ something in readme.txt
 
 this is morning
 啦啦啦啦啦啦
+nicai nicai nicai
