@@ -14,4 +14,8 @@ haha this is a haha
 
 something in readme.txt
 
+<<<<<<< HEAD
 this is morning
+=======
+啦啦啦啦啦啦
+>>>>>>> 65b87134936c820d91dd9aac36f1378cbc37649b
